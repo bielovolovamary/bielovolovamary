@@ -1,16 +1,12 @@
-### Hi there 👋
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<!--
-**bielovolovamary/bielovolovamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @belovolovamarry
+- 👀 I’m interested in recruiting and HR
+- 🌱 I’m currently learning new technical methodologies for sourcing candidates
+- 💞️ I’m looking to collaborate on new opportunities for interesting projects
+- 📫 How to reach me mariiab404@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+belovolushka/belovolushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
